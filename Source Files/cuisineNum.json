@@ -1,0 +1,22 @@
+{
+    "greek": 0,
+    "southern_us": 1,
+    "filipino": 2,
+    "indian": 3,
+    "jamaican": 4,
+    "spanish": 5,
+    "italian": 6,
+    "mexican": 7,
+    "chinese": 8,
+    "british": 9,
+    "thai": 10,
+    "vietnamese": 11,
+    "cajun_creole": 12,
+    "brazilian": 13,
+    "french": 14,
+    "japanese": 15,
+    "irish": 16,
+    "korean": 17,
+    "moroccan": 18,
+    "russian": 19
+}
